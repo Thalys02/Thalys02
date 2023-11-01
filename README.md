@@ -1,8 +1,5 @@
 <h2 align="center">Hi, I'm Thalys Melicio 👋🐱‍👤</h2>
 
-
-Here are some ideas to get you started:
-
 - 🔭 I'm Pleno Backend Development at [Kotas](https://www.linkedin.com/company/kotas/mycompany/)
 - 🌱 I’m currently learning : C Sharp,.Net Core, Docker,DevOps and Vue.
 - 📚 I’m graduated in System of Information at [Unichristus](https://unichristus.edu.br/)
